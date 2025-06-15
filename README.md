@@ -113,6 +113,6 @@ This project demonstrates how to deploy a scalable web application on AWS using 
 
 ---
 
-## 📄 **License**
+##  **License**
 
 This project is licensed under the MIT License.
